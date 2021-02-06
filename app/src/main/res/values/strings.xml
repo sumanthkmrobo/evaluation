@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="top_news">Top News</string>
+    <string name="content_description">Error while loading Image</string>
+</resources>

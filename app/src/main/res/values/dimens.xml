@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="home_header">20sp</dimen>
+    <dimen name="none">0dp</dimen>
+    <dimen name="padding_4">4dp</dimen>
+    <dimen name="image_height">140dp</dimen>
+    <dimen name="title_size">30sp</dimen>
+    <dimen name="main_8">8dp</dimen>
+    <dimen name="padding_12">12dp</dimen>
+</resources>
